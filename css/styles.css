@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+    line-height: 2;
+}
+.top-container{
+    background-color:#eaf6f6;
+    position: relative;
+    padding: 60px 60px 0;
+}
+.cloud1{
+    position: relative;
+    left: 250px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin:0;
+    color:#66BFBF;
+}
+
+h2,h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.cloud2{
+    position: absolute;
+    left: 300px;
+}
+
+.my-img{
+    width: 12rem;
+    margin: 3rem 0 0;
+}
+
+p{
+    color:#40514E;
+    font-weight: bold;
+    
+}
+
+hr{
+    border-top: 5px dotted #8c8b8b;
+    border-bottom-width:0;
+    width: 50px;
+    margin: 30px auto;
+    color:#EAF6F6;
+}
+
+.skill-row{
+    text-align: left;
+    width:45rem;
+    margin: 100px auto;
+}
+.code-img,.chilli-img{
+    border-radius: 50%;
+    width: 13rem;
+}
+.code-img{
+    float: left;
+    margin: 0 30px 0 0 ;
+}
+.chilli-img{
+    float:right;
+}
+
+
+.contact-me{
+    margin: 5rem auto;
+}
+.contact-me p{
+    margin: auto auto 50px;
+}
+.BUTTON_OHR {
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 5px 15px;
+    background-color: #66BFBF;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_OHR:hover {
+    background: #00DBFF;
+    border: solid #30A2FD 1px;
+    text-decoration: none;
+ }
+
+ .bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;    
+    
+ }
+
+ .bottom-container a{
+    text-decoration: none;
+    margin: 0 20px;
+    color: #11999E;
+ }
+.bottom-container p{
+    color: #EAF6F6;
+    font-weight:100;
+}
